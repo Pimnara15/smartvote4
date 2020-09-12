@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">smartvote3</string>
+    <string name="back">Count Down To Election Day</string>
+    <string name="next">Next</string>
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="min">Minutes</string>
+    <string name="sec">Seconds</string>
+</resources>

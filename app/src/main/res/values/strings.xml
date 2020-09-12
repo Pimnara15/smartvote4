@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">smartvote3</string>
+    <string name="back">นับเวลาถอยหลังวันเลือกตั้ง</string>
+    <string name="next">ถัดไป</string>
+    <string name="days">วัน</string>
+    <string name="hours">ชั่วโมง</string>
+    <string name="min">นาที</string>
+    <string name="sec">วินาที</string>
+    <string name="w1">60</string>
+    <string name="w2">24</string>
+    <string name="w3">365</string>
+    <string name="w4">60</string>
+    <string name="vote">TODO</string>
+    <string name="t1">สำนักงานคณะกรรมการเลือกตั้ง</string>
+    <string name="t2">ELECTION COMMISSION OF THAILAND</string>
+</resources>
